@@ -4,7 +4,7 @@ An end-to-end analytics project exploring customer behavior in the Google Analyt
 
 The project examines how users progress through the conversion funnel, how customer retention affects revenue, and which user segments create the highest business value. The goal is to transform raw event-level data into actionable business insights.
 
-🔗 **Interactive Dashboard:** *([Tableau Public link](https://public.tableau.com/app/profile/anna.kaminovska/viz/GA4E-commercePerformanceDashboard/Dashboard1#2))*
+🔗 **Interactive Dashboard:** *([View on Tableau Public](https://public.tableau.com/app/profile/anna.kaminovska/viz/GA4E-commercePerformanceDashboard/Dashboard1#2))*
 
 ---
 
